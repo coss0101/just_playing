@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bruno/Projetos/Just_playing/build",
+  "command": "/usr/bin/c++   -g -std=gnu++14 -o CMakeFiles/just_playing.dir/src/main.cpp.o -c /home/bruno/Projetos/Just_playing/src/main.cpp",
+  "file": "/home/bruno/Projetos/Just_playing/src/main.cpp",
+  "output": "CMakeFiles/just_playing.dir/src/main.cpp.o"
+}
+]

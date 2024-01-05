@@ -1,0 +1,3 @@
+/home/bruno/Projetos/Just_playing/build/CMakeFiles/just_playing.dir
+/home/bruno/Projetos/Just_playing/build/CMakeFiles/edit_cache.dir
+/home/bruno/Projetos/Just_playing/build/CMakeFiles/rebuild_cache.dir
